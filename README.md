@@ -1,5 +1,7 @@
 # nmb-backup-py
 -----
+在线查看数据:[nmb.zhihaofans.com/backup/](http://nmb.zhihaofans.com/backup/)
+
 # 使用方法:
 1.运行
 
